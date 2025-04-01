@@ -8,5 +8,8 @@ int main(){
     else if("letter>=95 && letter<=122"){
         printf("Lowercase");
     }
+    else{
+        printf("Not an alphabet");
+    }
     return 0;
 }
