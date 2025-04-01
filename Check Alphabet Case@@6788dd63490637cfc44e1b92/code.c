@@ -5,7 +5,7 @@ int main(){
     if(letter>=65 && letter<=90){
         printf("Uppercase");
     }
-    else if("letter>=95 && letter<=122"){
+    if("letter>=95 && letter<=122"){
         printf("Lowercase");
     }
     else{
