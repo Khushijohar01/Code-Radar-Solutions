@@ -6,7 +6,7 @@ int main(){
         printf("Uppercase");
     }
     else if("letter>=95 && letter<=122"){
-        printf("Lowecase");
+        printf("Lowercase");
     }
     return 0;
 }
